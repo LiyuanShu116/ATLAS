@@ -1,7 +1,7 @@
 # ATLAS: A Two-Stage Genomic Language Model for Cross-Species Regulatory Modeling
 
 ## Introduction
-![overview](https://github.com/LiyuanShu116/ATLAS/blob/main/figs/model.pdf)
+![ATLAS overview](figs/model.svg)
 
 ATLAS is a two-stage genomic language model for cross-species regulatory modeling, aiming to learn representations that are both species-invariant and functionally grounded for regulatory prediction. In the Cross-species Foundational Representation (CFR) stage, ATLAS is pretrained with masked language modeling (MLM) on a large multi-species genomic corpus to capture conserved regulatory syntax and transferable sequence priors. In the Functional Representation Enhancement (FRE) stage, ATLAS initializes from the CFR backbone and aligns representations with regulatory phenotypes via supervised sequence-to-signal pretraining on multi-track epigenomic readouts, while using an auxiliary MLM objective to preserve sequence modeling ability. 
 
