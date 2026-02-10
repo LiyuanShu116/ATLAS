@@ -1,0 +1,3 @@
+track_id	assay	group	mode	url	filename
+ATAC-seq__imputed__BloodandT-cell	ATAC-seq	BloodandT-cell	imputed	https://epigenome.wustl.edu/epimap/data/averagetracks_pergroup/average_ATAC-seq_imputed_BloodandT-cell.bigWig	average_ATAC-seq_imputed_BloodandT-cell.bigWig
+ATAC-seq__imputed__Brain	ATAC-seq	Brain	imputed	https://epigenome.wustl.edu/epimap/data/averagetracks_pergroup/average_ATAC-seq_imputed_Brain.bigWig	average_ATAC-seq_imputed_Brain.bigWig
